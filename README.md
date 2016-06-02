@@ -1,0 +1,1 @@
+# has_friends_gem
